@@ -1,4 +1,4 @@
-#nginx yaml file
+#nginx yaml file example
 apiVersion: v1
 kind: Pod
 metadata:
